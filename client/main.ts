@@ -1,4 +1,5 @@
 import 'angular2-meteor-polyfills';
+import "angular2-materialize";
 
 import { platformBrowserDynamic } from '@angular/platform-browser-dynamic';
 
